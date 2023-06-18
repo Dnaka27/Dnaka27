@@ -7,7 +7,7 @@
 
 <p>Linguagens que estou aprendendo: <br></p>
 
-<div style="display: flex; gap: 1.5rem;">
+<div style="margin">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
@@ -20,7 +20,7 @@
 
 <p>Bibliotecas e frameworks: <br></p> 
 
-<div style="display: flex; gap: 1.5rem;">  
+<div style="display: flex; gap: 16px;">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>  
