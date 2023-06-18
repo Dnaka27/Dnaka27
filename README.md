@@ -20,7 +20,7 @@
 
 <p>Bibliotecas e frameworks: <br></p> 
 
-<div style="display: flex; gap: 64px;">  
+<div style="display: flex; margin-right: 1rem;">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>  
