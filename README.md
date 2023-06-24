@@ -1,4 +1,4 @@
-### Salve, aqui quem fala sou eu:
+### Olá, aqui quem fala sou eu:
 
 <h2>Diogo Oike</h2> <!--Colocar link do portfolio?-->
 <h3>Desenvolvedor backend júnior buscando conhecer mais sobre o mundo da progamação.</h3>
