@@ -5,11 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-78d?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/diogo-oike-kanefuku-23639b223/) [![E-mail](https://img.shields.io/badge/-Email-e9a?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:diogooikejapan@gmail.com)
 
-
-
-| Progression |
-|-------------|
-| ![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=Dnaka27&show_icons=true&theme=cobalt)  [![GitHub Streak](https://streak-stats.demolab.com/?user=Dnaka27&theme=radical)](https://git.io/streak-stats)
+![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=Dnaka27&show_icons=true&theme=cobalt)  [![GitHub Streak](https://streak-stats.demolab.com/?user=Dnaka27&theme=radical)](https://git.io/streak-stats)
 
 #### Linguagens que estou aprendendo: 
 
