@@ -9,7 +9,7 @@
 
 | Progression |
 |-------------|
-| ![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=Dnaka27&show_icons=true&theme=cobalt) &nbsp; [![GitHub Streak](https://streak-stats.demolab.com/?user=Dnaka27&theme=radical)](https://git.io/streak-stats)
+| ![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=Dnaka27&show_icons=true&theme=cobalt)  [![GitHub Streak](https://streak-stats.demolab.com/?user=Dnaka27&theme=radical)](https://git.io/streak-stats)
 
 #### Linguagens que estou aprendendo: 
 
