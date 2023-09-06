@@ -7,8 +7,6 @@
 
 ![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=Dnaka27&show_icons=true&theme=cobalt)
 
-<h4><a href="dnaka27.github.io/Portfolio_3" target="_blank">- PORTFOLIO</a></h4>
-
 #### Linguagens que estou aprendendo: 
 
 <div>
