@@ -1,7 +1,7 @@
 ### Salve, aqui quem fala sou eu:
 
 <h2>Diogo Oike</h2> <!--Colocar link do portfolio?-->
-<h3>Desenvolvedor backend júnior buscando conhecer mais sobre o mundo da progamação.</h3>
+<h3>Desenvolvedor júnior buscando conhecer mais sobre o mundo da progamação.</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-78d?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/diogo-oike-kanefuku-23639b223/) [![E-mail](https://img.shields.io/badge/-Email-e9a?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:diogooikejapan@gmail.com)
 
