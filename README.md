@@ -1,5 +1,5 @@
 <h1> ✌ Hi, I'm Diogo:</h1>
-<h2><a href="https://dnaka27.github.io/Portfolio_3/"><u>Diogo Oike</u></a> is a software developer who enjoys exploring technology while searching for smart solutions</h2>
+<h2><u><a href="https://dnaka27.github.io/Portfolio_3/">Diogo Oike</a></u> is a software developer who enjoys exploring technology while searching for smart solutions</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-78d?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/diogo-oike-kanefuku-23639b223/) [![E-mail](https://img.shields.io/badge/-Email-e9a?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:diogooikejapan@gmail.com)
 
