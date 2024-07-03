@@ -15,16 +15,22 @@
 ### My Techs
 
 ![Python](https://img.shields.io/badge/Python-1F2194?style=for-the-badge&logo=Python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-016273?style=for-the-badge&logo=NumPy&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-DE0034?style=for-the-badge&logo=Selenium&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-5B00E8?style=for-the-badge&logo=Plotly&logoColor=white)
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-0769FC?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-6A00D4?style=for-the-badge&logo=Kotlin&logoColor=white)
-![C](https://img.shields.io/badge/C++-9E0034?style=for-the-badge&logo=C&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-016273?style=for-the-badge&logo=NumPy&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5C2D91?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-1572B6?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/React-00CEF0?style=for-the-badge&logo=react&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-DE0034?style=for-the-badge&logo=Selenium&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=Oracle&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-6A00D4?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-10CF00?style=for-the-badge&logo=Spring&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-E80058?style=for-the-badge&logo=Apache%20maven&logoColor=white)
+
+![C](https://img.shields.io/badge/C++-9E0034?style=for-the-badge&logo=C&logoColor=white)
