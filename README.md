@@ -8,13 +8,10 @@
 [![E-mail](https://img.shields.io/badge/-Email-e9a?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:diogooikejapan@gmail.com)
 
 ---
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dnaka27&show_icons=true&theme=highcontrast&title_color=47FFBC&text_color=ffffff&icon_color=827BFF&bg_color=1F002C" alt="Diogo's GitHub Stats" height="200px" width="48%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnaka27&layout=compact&theme=highcontrast&title_color=47FFBC&text_color=ffffff&bg_color=1F002C" alt="Top Langs" height="200px" width="48%"/>
-</p>
-
----
+<div display="inline";>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dnaka27&show_icons=true&theme=highcontrast&title_color=47FFBC&text_color=ffffff&icon_color=827BFF&bg_color=1F002C" alt="Diogo's GitHub Stats" height="200px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnaka27&layout=compact&theme=highcontrast&title_color=47FFBC&text_color=ffffff&bg_color=1F002C" alt="Top Langs" height="200px"/>
+</div>
 
 ## 🛠️ My Tech Stack
 
