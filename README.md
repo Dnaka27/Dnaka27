@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-78d?style=for-the-badge&logo=linkedin&logoColor=0A0AAF)](https://www.linkedin.com/in/diogo-oike-kanefuku-23639b223/) 
 [![E-mail](https://img.shields.io/badge/-Email-e9a?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:diogooikejapan@gmail.com)
 
----
 <div display="inline";>
   <img src="https://github-readme-stats.vercel.app/api?username=Dnaka27&show_icons=true&theme=highcontrast&title_color=47FFBC&text_color=ffffff&icon_color=827BFF&bg_color=1F002C" alt="Diogo's GitHub Stats" height="165px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnaka27&layout=compact&theme=highcontrast&title_color=47FFBC&text_color=ffffff&bg_color=1F002C" alt="Top Langs"/>
