@@ -40,3 +40,4 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-6A00D4?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-10CF00?style=for-the-badge&logo=Spring&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-E80058?style=for-the-badge&logo=Apache%20maven&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node-44AA44?style=for-the-badge&logo=nodedotjs&logoColor=white)
