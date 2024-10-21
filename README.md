@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnaka27&layout=compact&theme=highcontrast&title_color=47FFBC&text_color=ffffff&bg_color=1F002C" alt="Top Langs"/>
 </div>
 
-## 🛠️ My Tech Stack
+---
 
 ### Data Science & Analysis
 
