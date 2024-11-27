@@ -14,7 +14,7 @@
 
 ---
 
-### Data Science & Analysis
+### Data Science
 
 ![Python](https://img.shields.io/badge/Python-1F2194?style=for-the-badge&logo=Python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
@@ -24,7 +24,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-5B00E8?style=for-the-badge&logo=Plotly&logoColor=white)
 ![Big Query](https://img.shields.io/badge/SQL-8BBAD8?style=for-the-badge&logo=Google%20BigQuery&logoColor=white)
 
-### Web Development
+### Frontend Development
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-0769FC?style=for-the-badge&logo=css3&logoColor=white)
@@ -41,3 +41,4 @@
 ![Spring](https://img.shields.io/badge/Spring-10CF00?style=for-the-badge&logo=Spring&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-E80058?style=for-the-badge&logo=Apache%20maven&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node-44AA44?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Php-4f5c93?style=for-the-badge&logo=php&logoColor=white)
