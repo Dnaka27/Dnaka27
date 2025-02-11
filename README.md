@@ -36,9 +36,7 @@
 
 ### Backend Development
 
-![C++](https://img.shields.io/badge/C++-9E0034?style=for-the-badge&logo=C&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=Oracle&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-6A00D4?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-10CF00?style=for-the-badge&logo=Spring&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-E80058?style=for-the-badge&logo=Apache%20maven&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node-44AA44?style=for-the-badge&logo=nodedotjs&logoColor=white)
