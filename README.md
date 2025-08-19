@@ -25,7 +25,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-5B00E8?style=for-the-badge&logo=Plotly&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-8BBAD8?style=for-the-badge&logo=Google%20BigQuery&logoColor=white)
 
-### Frontend Development
+### Web Development
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-0769FC?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,9 +33,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5C2D91?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-1572B6?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/React-00CEF0?style=for-the-badge&logo=react&logoColor=white)
-
-### Backend Development
-
 ![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-10CF00?style=for-the-badge&logo=Spring&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-E80058?style=for-the-badge&logo=Apache%20maven&logoColor=white)
