@@ -14,7 +14,7 @@
 
 ---
 
-### Data Science
+### Data
 
 ![Python](https://img.shields.io/badge/Python-1F2194?style=for-the-badge&logo=Python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white)
@@ -24,8 +24,11 @@
 ![Selenium](https://img.shields.io/badge/Selenium-DE0034?style=for-the-badge&logo=Selenium&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-5B00E8?style=for-the-badge&logo=Plotly&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-8BBAD8?style=for-the-badge&logo=Google%20BigQuery&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Genai](https://img.shields.io/badge/Genai-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-### Web Development
+
+### Web
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-0769FC?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,4 +40,3 @@
 ![Spring](https://img.shields.io/badge/Spring-10CF00?style=for-the-badge&logo=Spring&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-E80058?style=for-the-badge&logo=Apache%20maven&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node-44AA44?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/Php-4f5c93?style=for-the-badge&logo=php&logoColor=white)
