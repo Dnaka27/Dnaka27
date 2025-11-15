@@ -1,6 +1,6 @@
 # ✌ Hi, I'm Diogo
 
-<div><a href="https://portfolio-4-lake.vercel.app/">Diogo Oike</a> is a software developer and data analyst who loves exploring the world of technology. 
+<div><a href="https://portfolio-4-lake.vercel.app/">Diogo Oike</a> is a software developer and data engineer who loves exploring the world of technology. 
   He is a committed individual in what he does and seeks to learn more and more to create intelligent solutions.</div>
 <br>
 
