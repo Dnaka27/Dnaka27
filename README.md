@@ -14,7 +14,7 @@
 
 ---
 
-### Data
+### Data Engineering
 
 ![Python](https://img.shields.io/badge/Python-1F2194?style=for-the-badge&logo=Python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white)
@@ -28,15 +28,13 @@
 ![Genai](https://img.shields.io/badge/Genai-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 
-### Web
+### Web Development
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-0769FC?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/css-0769FC?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5C2D91?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-1572B6?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/React-00CEF0?style=for-the-badge&logo=react&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=Oracle&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-10CF00?style=for-the-badge&logo=Spring&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-E80058?style=for-the-badge&logo=Apache%20maven&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node-44AA44?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node-44BB44?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/Fastapi-449977?style=for-the-badge&logo=fastapi&logoColor=white)
