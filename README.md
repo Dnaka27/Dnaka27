@@ -1,8 +1,23 @@
-# ✌ Hi, I'm Diogo
+<h1 align="center">👋 Hi, I'm Diogo Oike</h1>
 
-<div><a href="https://portfolio-4-lake.vercel.app/">Diogo Oike</a> is a software developer and data engineer who loves exploring the world of technology. 
-  He is a committed individual in what he does and seeks to learn more and more to create intelligent solutions.</div>
-<br>
+<h3 align="center">
+Software Developer • Data Engineer • Automation & AI Enthusiast
+</h3>
+
+<p align="center">
+Transforming <b>data</b> into <b>decisions</b> and <b>code</b> into <b>real-world solutions</b> 🚀
+</p>
+
+---
+
+### About Me
+
+- 🧠 Passionate about **Data Engineering, ETL, Automation and AI**
+- 🐍 Python-first mindset
+- 📊 Love turning raw data into insights
+- 🚀 Always learning, always building
+
+**Portfolio(building):** https://portfolio-4-lake.vercel.app/
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-78d?style=for-the-badge&logo=linkedin&logoColor=0A0AAF)](https://www.linkedin.com/in/diogo-oike-kanefuku-23639b223/) 
 [![E-mail](https://img.shields.io/badge/-Gmail-e9a?style=for-the-badge&logo=mail&logoColor=E94D5F)](mailto:diogooikejapan@gmail.com)
