@@ -5,7 +5,7 @@ Software Developer • Data Engineer • Automation & AI Enthusiast
 </h3>
 
 <p align="center">
-Transforming <b>data</b> into <b>decisions</b> and <b>code</b> into <b>real-world solutions</b> 🚀
+Transforming <b>data</b> into <b>decisions</b> and <b>code</b> into <b>real-world solutions</b>
 </p>
 
 ---
