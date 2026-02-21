@@ -12,10 +12,10 @@ Transforming <b>data</b> into <b>decisions</b> and <b>code</b> into <b>real-worl
 
 ### About Me
 
-- 🧠 Passionate about **Data Engineering, ETL, Automation and AI**
-- 🐍 Python-first mindset
-- 📊 Love turning raw data into insights
-- 🚀 Always learning, always building
+- Passionate about **Data Engineering, ETL, Automation and AI**
+- Python-first mindset
+- Raw data into insights
+- Always learning, always building
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-78d?style=for-the-badge&logo=linkedin&logoColor=0A0AAF)](https://www.linkedin.com/in/diogo-oike-kanefuku-23639b223/) 
 [![E-mail](https://img.shields.io/badge/-Gmail-e9a?style=for-the-badge&logo=mail&logoColor=E94D5F)](mailto:diogooikejapan@gmail.com)
