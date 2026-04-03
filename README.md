@@ -1,20 +1,19 @@
 <h1 align="center">👋 Hi, I'm Diogo Oike</h1>
 
 <h3 align="center">
-Software Developer • Data Engineer • Automation & AI Enthusiast
+  Data Engineer • Automation & AI Enthusiast
 </h3>
 
 <p align="center">
-Transforming <b>data</b> into <b>decisions</b> and <b>code</b> into <b>real-world solutions</b>
+A guy trying turning <b>data</b> into <b>decisions</b> and <b>code</b> into <b> solutions :)</b>
 </p>
 
 ---
 
 ### About Me
 
-- Passionate about **Data Engineering, ETL, Automation and AI**
-- Python-first mindset
-- Raw data into insights
+- Experience in **Data Engineering, ETL, Automation and AI**
+- "Automate that" mindset
 - Always learning, always building
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-78d?style=for-the-badge&logo=linkedin&logoColor=0A0AAF)](https://www.linkedin.com/in/diogo-oike-kanefuku-23639b223/) 
