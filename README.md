@@ -9,6 +9,7 @@ A guy trying turning <b>data</b> into <b>decisions</b> and <b>code</b> into <b> 
 </p>
 
 ---
+-> [Portfolio](https://diogo-portfolio-sync.vercel.app/)
 
 ### About Me
 
