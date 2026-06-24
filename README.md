@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Diogo Oike</h1>
+<h1 align="center">Hi, I'm Diogo Oike</h1>
 
 <h3 align="center">
   Data Engineer • Automation & AI Enthusiast
