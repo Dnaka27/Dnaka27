@@ -1,28 +1,36 @@
-<h1 align="center">Hi, I'm Diogo Oike</h1>
+<div align="center">
 
-<h3 align="center">
-  Data Engineer • Automation & AI Enthusiast
-</h3>
+# Diogo Oike
 
-<p align="center">
-A guy trying turning <b>data</b> into <b>decisions</b> and <b>code</b> into <b> solutions :)</b>
-</p>
+### Data Engineer • Software Developer
+
+*Turning data into decisions and code into solutions.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-oike-kanefuku-23639b223/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogooikejapan@gmail.com)</br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1F2194?style=for-the-badge&logo=vercel&logoColor=white)](https://diogo-portfolio-sync.vercel.app/)
+
+</div>
 
 ---
--> [Portfolio](https://diogo-portfolio-sync.vercel.app/)
 
-### About Me
+## About
 
-- Experience in **Data Engineering, ETL, Automation and AI**
-- "Automate that" mindset
-- Always learning, always building
+Most of my work lives at the intersection of data pipelines, automation, and clean architecture — **ETL workflows, BigQuery/SQL pipelines. I care about readable code, reliable automation, and systems that are still easy to maintain later.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-78d?style=for-the-badge&logo=linkedin&logoColor=0A0AAF)](https://www.linkedin.com/in/diogo-oike-kanefuku-23639b223/) 
-[![E-mail](https://img.shields.io/badge/-Gmail-e9a?style=for-the-badge&logo=mail&logoColor=E94D5F)](mailto:diogooikejapan@gmail.com)
+When I'm not building pipelines, I'm probably automating something or exploring a new corner of the Claude Code / agentic tooling ecosystem.
 
-<div display="inline";>
-  <img src="https://github-readme-stats.vercel.app/api?username=Dnaka27&show_icons=true&theme=highcontrast&title_color=47FFBC&text_color=ffffff&icon_color=827BFF&bg_color=1F002C" alt="Diogo's GitHub Stats" height="165px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnaka27&layout=compact&theme=highcontrast&title_color=47FFBC&text_color=ffffff&bg_color=1F002C" alt="Top Langs"/>
+**Currently:** building data projects and exploring AI-assisted development workflows end to end.
+
+> *"Always learning, always building."*
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dnaka27&show_icons=true&theme=highcontrast&title_color=47FFBC&text_color=ffffff&icon_color=827BFF&bg_color=1F002C" alt="Diogo's GitHub Stats" height="165px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dnaka27&layout=compact&theme=highcontrast&title_color=47FFBC&text_color=ffffff&bg_color=1F002C" alt="Top Langs" height="165px"/>
 </div>
 
 ---
@@ -39,7 +47,6 @@ A guy trying turning <b>data</b> into <b>decisions</b> and <b>code</b> into <b> 
 ![SQL](https://img.shields.io/badge/SQL-8BBAD8?style=for-the-badge&logo=Google%20BigQuery&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Genai](https://img.shields.io/badge/Genai-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-
 
 ### Web Development
 
