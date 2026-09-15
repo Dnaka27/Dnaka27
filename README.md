@@ -59,7 +59,7 @@ I care about pipelines that don't silently break, code that's still readable mon
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5C2D91?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </td>
-<td valign="top" width="50%">
+<td align="center" valign="top" width="50%">
 
 ![Language Radar](https://github-stats-mu-eight.vercel.app/api/langs-radar?username=Dnaka27)
 
