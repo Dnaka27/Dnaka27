@@ -32,15 +32,6 @@ I care about pipelines that don't silently break, code that's still readable mon
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dnaka27&show_icons=true&theme=highcontrast&title_color=47FFBC&text_color=ffffff&icon_color=827BFF&bg_color=1F002C" alt="Diogo's GitHub Stats" height="165px"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dnaka27&layout=compact&theme=highcontrast&title_color=47FFBC&text_color=ffffff&bg_color=1F002C" alt="Top Langs" height="165px"/>
-</div>
-
----
-
 **Data & Automation**
 
 ![Python](https://img.shields.io/badge/Python-1F2194?style=for-the-badge&logo=Python&logoColor=white)
