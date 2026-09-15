@@ -32,6 +32,10 @@ I care about pipelines that don't silently break, code that's still readable mon
 
 ---
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
 **Data & Automation**
 
 ![Python](https://img.shields.io/badge/Python-1F2194?style=for-the-badge&logo=Python&logoColor=white)
@@ -53,5 +57,14 @@ I care about pipelines that don't silently break, code that's still readable mon
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-0769FC?style=for-the-badge&logo=css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5C2D91?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</td>
+<td valign="top" width="40%">
+
+![Language Radar](https://github-stats-mu-eight.vercel.app/api/langs-radar?username=Dnaka27)
+
+</td>
+</tr>
+</table>
 
 </div>
