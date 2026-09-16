@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-oike-kanefuku-23639b223/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogooikejapan@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1F2194?style=for-the-badge&logo=vercel&logoColor=white)](https://diogo-portfolio-sync.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1F2194?style=for-the-badge&logo=vercel&logoColor=white)](https://www.diogooike.com/)
 
 </div>
 
