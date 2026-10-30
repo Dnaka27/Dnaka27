@@ -16,11 +16,7 @@
 
 ## About
 
-I work mostly at the intersection of data and automation — ETL pipelines, BigQuery/SQL workflows, and systems that move data from messy sources into something usable. Lately a big part of my workflow involves AI-assisted development: using Claude Code as a core tool for building, debugging, and shipping faster, including custom tooling around it (slash commands, skills, session management).
-
-I care about pipelines that don't silently break, code that's still readable months later, and automating the parts of the job that don't need a human.
-
-**Currently building:** a data analytics portfolio site, and IdeaToDemo — a system that turns a software idea captured on mobile into a deployed working demo automatically.
+I work mostly at the intersection of data and automation. ETL pipelines, BigQuery/SQL workflows, and systems that move data from messy sources into something usable. I care about pipelines that don't silently break, code that's still readable months later, and automating the parts of the job that don't need a human.
 
 ---
 
